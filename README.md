@@ -66,4 +66,4 @@ style.css
 
 ## 🧑‍💻 Author
 **Your Name**  
-📎 [LinkedIn](https://linkedin.com/in/yourusername) | 💻 [GitHub](https://github.com/yourusername)
+📎 [LinkedIn](https://www.linkedin.com/in/kushagra-jadiya/) 
