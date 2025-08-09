@@ -60,7 +60,7 @@ style.css
 ---
 
 ## 📸 Demo
-[Live Demo](https://YOUR_USERNAME.github.io/threejs-texture-cube/)
+[Live Demo](https://kushagrajadiya24.github.io/TextureMap/)
 
 ---
 
